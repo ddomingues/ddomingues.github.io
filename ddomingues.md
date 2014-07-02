@@ -11,4 +11,4 @@ image:
   <figcaption>Diego Domingues</figcaption>
 </figure>
 
->Pai, desenvolver apaixonado, rubysta, javista, node
+>Father, Husband and Developer passionate by what he does
