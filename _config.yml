@@ -89,8 +89,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://ddomingues.github.io/'
-  relativeLinks: 'http://ddomingues.github.io/links.jsonp'
+  siteurl: 'http://ddomingues.com/'
+  relativeLinks: 'http://ddomingues.com/links.jsonp'
   media: 'images'
   metadata:
     _posts:
