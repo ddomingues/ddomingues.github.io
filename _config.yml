@@ -1,5 +1,5 @@
 title:            Diego Domingues
-description:      "Omega: The Coolest Theme for Jekyll"
+description:      "Developer passionate by what he does"
 logo:             omikron.png
 disqus_shortname: ddomingues
 # Assign a default image for your site's header and footer
@@ -53,8 +53,6 @@ links:
     url: /
     external: false
     icon: home
-  - title: <i class="icon-book"></i> Documentation
-    url: /documentation
   - title: Categories
     url: /categories
   - title: Tags
