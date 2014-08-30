@@ -3860,7 +3860,8 @@ a#slide{
     color:#fff;
     background:#262626;
     border-radius:3px;
-    z-index:31
+    z-index:31;
+    font-family: FontAwesome;
     }
 
 a#slide:hover{
