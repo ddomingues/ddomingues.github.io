@@ -13,6 +13,6 @@ image:
 
 >Father, Husband and Developer passionate by what he does.
 >
->Here I share my thoughts and points of view about my experience with software development. Feel free and give me your feedback!
+>Here I share my thoughts and points of view about my experience with software development. Feel free and let me know your feedback!
 
 <div class="rotate-90 animated text-center">=)</div>
