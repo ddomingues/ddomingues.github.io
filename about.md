@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /ddomingues/index.html
+permalink: /about/index.html
 title: Diego Domingues
 tags: [Diego, Domingues, ddomingues]
 image:
