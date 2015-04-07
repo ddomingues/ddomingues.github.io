@@ -16,9 +16,9 @@ fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:       		   "http://ddomingues.com"
-# url:             "http://localhost:4000"
-# baseurl:			   /localhost:4000
+# url:       		   "http://ddomingues.com"
+url:             "http://192.168.253.109:4000"
+baseurl:			   /
 
 # Owner/author information
 owner:
