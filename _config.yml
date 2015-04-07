@@ -18,7 +18,7 @@ fin_color:        "255,255,255"
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
 url:       		   "http://ddomingues.com"
 # url:             "http://localhost:4000"
-# baseurl:			   /localhost:4000
+# baseurl:			   /
 
 # Owner/author information
 owner:
