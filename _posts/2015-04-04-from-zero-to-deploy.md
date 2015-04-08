@@ -5,7 +5,7 @@ description: Preparando um ambiente com Integração Contínua
 headline:
 category: DevOps
 tags: [TravisCI, Heroku, Rails, Deploy, GitHub, Code Climate, Continuous Integration]
-imagefeature: from-zero-to-deploy/main.jpg
+imagefeature: from-zero-to-deploy/logo.png
 comments: true
 mathjax:
 ---
